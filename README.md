@@ -23,6 +23,7 @@ A sleek, responsive, and customizable password generator built with **React** an
 git clone https://github.com/yourusername/password-generator.git
 cd password-generator
 
+---
 
 🛠️ Tech Stack
 React
