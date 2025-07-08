@@ -23,7 +23,7 @@ A sleek, responsive, and customizable password generator built with **React** an
 git clone https://github.com/yourusername/password-generator.git
 cd password-generator
 
----
+```
 
 🛠️ Tech Stack
 React
@@ -42,7 +42,7 @@ Copy the generated password by clicking the "Copy" button.
 
 
 💡 Project Structure
-bash
+```bash
 Copy
 Edit
 src/
