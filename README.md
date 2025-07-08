@@ -26,6 +26,7 @@ cd password-generator
 ```
 
 🛠️ Tech Stack
+
 React
 
 Tailwind CSS
@@ -34,6 +35,7 @@ Vite (for fast dev server and build)
 
 
 ✨ Usage
+
 Set the password length using the slider.
 
 Toggle Include Numbers and Include Symbols checkboxes based on your preferences.
